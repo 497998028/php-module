@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="258f59e8-ab77-430d-b3f7-12f033260868" name="默认的" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="WxLogin.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/WxLogin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2477">
+              <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+              <folding>
+                <marker date="1511422246296" expanded="true" signature="3573:3609" ph="SELECT * FRO... wx_user" />
+                <marker date="1511422246296" expanded="true" signature="3573:3636" ph="SELECT * FRO... wx_user" />
+                <marker date="1511422246296" expanded="true" signature="3573:3645" ph="SELECT * FRO... wx_user" />
+                <marker date="1511422246296" expanded="true" signature="3573:3754" ph="SELECT * FRO... wx_user" />
+                <marker date="1511422246296" expanded="true" signature="4752:4775" ph="INSERT INTO wx_user... " />
+                <marker date="1511422246296" expanded="true" signature="4752:4792" ph="INSERT INTO wx_user... " />
+                <marker date="1511422246296" expanded="true" signature="4752:4802" ph="INSERT INTO wx_user... " />
+                <marker date="1511422246296" expanded="true" signature="4752:4804" ph="INSERT INTO wx_user... " />
+                <marker date="1511422246296" expanded="true" signature="4752:4823" ph="INSERT INTO wx_user... " />
+                <marker date="1511422246296" expanded="true" signature="4752:4824" ph="INSERT INTO wx_user... " />
+                <marker date="1511422246296" expanded="true" signature="4752:4836" ph="INSERT INTO wx_user... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/User.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="17" column="44" lean-forward="false" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+              <folding>
+                <element signature="e#7#22#0#PHP" expanded="true" />
+                <marker date="1511422246411" expanded="true" signature="283:316" ph="SELECT * FRO... user" />
+                <marker date="1511422246411" expanded="true" signature="283:319" ph="SELECT * FRO... user" />
+                <marker date="1511422246411" expanded="true" signature="283:325" ph="SELECT * FRO... user" />
+                <marker date="1511422246411" expanded="true" signature="283:338" ph="SELECT * FRO... user" />
+                <marker date="1511422246411" expanded="true" signature="283:346" ph="SELECT * FRO... user" />
+                <marker date="1511422246411" expanded="true" signature="283:355" ph="SELECT * FRO... user" />
+                <marker date="1511422246411" expanded="true" signature="283:390" ph="SELECT * FRO... user" />
+                <marker date="1511422246411" expanded="true" signature="1061:1094" ph="SELECT * FRO... wx_user" />
+                <marker date="1511422246411" expanded="true" signature="1061:1095" ph="SELECT * FRO... wx_user" />
+                <marker date="1511422246411" expanded="true" signature="1061:1108" ph="SELECT * FRO... wx_user" />
+                <marker date="1511422246411" expanded="true" signature="1061:1117" ph="SELECT * FRO... wx_user" />
+                <marker date="1511422246411" expanded="true" signature="1061:1151" ph="SELECT * FRO... wx_user" />
+                <marker date="1511422246411" expanded="true" signature="1240:1263" ph="UPDATE wx_us... " />
+                <marker date="1511422246411" expanded="true" signature="1240:1278" ph="UPDATE wx_us... " />
+                <marker date="1511422246411" expanded="true" signature="1240:1285" ph="UPDATE wx_us... " />
+                <marker date="1511422246411" expanded="true" signature="1240:1286" ph="UPDATE wx_us... " />
+                <marker date="1511422246411" expanded="true" signature="1240:1290" ph="UPDATE wx_us... " />
+                <marker date="1511422246411" expanded="true" signature="1240:1314" ph="UPDATE wx_us... " />
+                <marker date="1511422246411" expanded="true" signature="1240:1315" ph="UPDATE wx_us... " />
+                <marker date="1511422246411" expanded="true" signature="1240:1416" ph="UPDATE wx_us... " />
+                <marker date="1511422246411" expanded="true" signature="1856:1900" ph="INSERT INTO session... " />
+                <marker date="1511422246411" expanded="true" signature="1856:1901" ph="INSERT INTO session... " />
+                <marker date="1511422246411" expanded="true" signature="1856:1908" ph="INSERT INTO session... " />
+                <marker date="1511422246411" expanded="true" signature="1856:1911" ph="INSERT INTO session... " />
+                <marker date="1511422246411" expanded="true" signature="1856:1912" ph="INSERT INTO session... " />
+                <marker date="1511422246411" expanded="true" signature="1856:1913" ph="INSERT INTO session... " />
+                <marker date="1511422246411" expanded="true" signature="1856:1932" ph="INSERT INTO session... " />
+                <marker date="1511422246411" expanded="true" signature="1856:1936" ph="INSERT INTO session... " />
+                <marker date="1511422246411" expanded="true" signature="1856:1938" ph="INSERT INTO session... " />
+                <marker date="1511422246411" expanded="true" signature="1856:2037" ph="INSERT INTO session... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mysql.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/Mysql.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="39" column="28" lean-forward="true" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="function.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/function.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="577">
+              <caret line="42" column="1" lean-forward="false" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+              <folding>
+                <element signature="e#6#100#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bindAccount.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bindAccount.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WxLogin.class.php" />
+        <option value="$PROJECT_DIR$/WxLogin.class.php" />
+        <option value="$PROJECT_DIR$/Config.php" />
+        <option value="$PROJECT_DIR$/WxLogin.php" />
+        <option value="$PROJECT_DIR$/User.php" />
+        <option value="$PROJECT_DIR$/php/function.php" />
+        <option value="$PROJECT_DIR$/php/bindAccount.php" />
+        <option value="$PROJECT_DIR$/static/style.css" />
+        <option value="$PROJECT_DIR$/php/Config.php" />
+        <option value="$PROJECT_DIR$/bindAccount.php" />
+        <option value="$PROJECT_DIR$/bindAccount.php" />
+        <option value="$PROJECT_DIR$/php/WxLogin.php" />
+        <option value="$PROJECT_DIR$/php/User.php" />
+        <option value="$PROJECT_DIR$/php/Mysql.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WxLogin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WxLogin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WxLogin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WxLogin" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\05\WxLogin\php" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="258f59e8-ab77-430d-b3f7-12f033260868" name="默认的" comment="" />
+      <created>1511317967070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511317967070</updated>
+      <workItem from="1511317968576" duration="19379000" />
+      <workItem from="1511350456207" duration="134000" />
+      <workItem from="1511402910119" duration="7484000" />
+      <workItem from="1511416948138" duration="2126000" />
+      <workItem from="1511420618031" duration="1575000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30698000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17994858" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/php/WxLogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="44" column="42" lean-forward="true" selection-start-line="44" selection-start-column="42" selection-end-line="44" selection-end-column="42" />
+          <folding>
+            <marker date="1511422246296" expanded="true" signature="3573:3609" ph="SELECT * FRO... wx_user" />
+            <marker date="1511422246296" expanded="true" signature="3573:3636" ph="SELECT * FRO... wx_user" />
+            <marker date="1511422246296" expanded="true" signature="3573:3645" ph="SELECT * FRO... wx_user" />
+            <marker date="1511422246296" expanded="true" signature="3573:3754" ph="SELECT * FRO... wx_user" />
+            <marker date="1511422246296" expanded="true" signature="4752:4775" ph="INSERT INTO wx_user... " />
+            <marker date="1511422246296" expanded="true" signature="4752:4792" ph="INSERT INTO wx_user... " />
+            <marker date="1511422246296" expanded="true" signature="4752:4802" ph="INSERT INTO wx_user... " />
+            <marker date="1511422246296" expanded="true" signature="4752:4804" ph="INSERT INTO wx_user... " />
+            <marker date="1511422246296" expanded="true" signature="4752:4823" ph="INSERT INTO wx_user... " />
+            <marker date="1511422246296" expanded="true" signature="4752:4824" ph="INSERT INTO wx_user... " />
+            <marker date="1511422246296" expanded="true" signature="4752:4836" ph="INSERT INTO wx_user... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bindAccount.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1406">
+          <caret line="74" column="20" lean-forward="false" selection-start-line="74" selection-start-column="20" selection-end-line="74" selection-end-column="20" />
+          <folding>
+            <element signature="e#7#22#0#PHP" expanded="true" />
+            <marker date="1511422246411" expanded="true" signature="283:316" ph="SELECT * FRO... user" />
+            <marker date="1511422246411" expanded="true" signature="283:319" ph="SELECT * FRO... user" />
+            <marker date="1511422246411" expanded="true" signature="283:325" ph="SELECT * FRO... user" />
+            <marker date="1511422246411" expanded="true" signature="283:338" ph="SELECT * FRO... user" />
+            <marker date="1511422246411" expanded="true" signature="283:346" ph="SELECT * FRO... user" />
+            <marker date="1511422246411" expanded="true" signature="283:355" ph="SELECT * FRO... user" />
+            <marker date="1511422246411" expanded="true" signature="283:390" ph="SELECT * FRO... user" />
+            <marker date="1511422246411" expanded="true" signature="1061:1094" ph="SELECT * FRO... wx_user" />
+            <marker date="1511422246411" expanded="true" signature="1061:1095" ph="SELECT * FRO... wx_user" />
+            <marker date="1511422246411" expanded="true" signature="1061:1108" ph="SELECT * FRO... wx_user" />
+            <marker date="1511422246411" expanded="true" signature="1061:1117" ph="SELECT * FRO... wx_user" />
+            <marker date="1511422246411" expanded="true" signature="1061:1151" ph="SELECT * FRO... wx_user" />
+            <marker date="1511422246411" expanded="true" signature="1240:1263" ph="UPDATE wx_us... " />
+            <marker date="1511422246411" expanded="true" signature="1240:1278" ph="UPDATE wx_us... " />
+            <marker date="1511422246411" expanded="true" signature="1240:1285" ph="UPDATE wx_us... " />
+            <marker date="1511422246411" expanded="true" signature="1240:1286" ph="UPDATE wx_us... " />
+            <marker date="1511422246411" expanded="true" signature="1240:1290" ph="UPDATE wx_us... " />
+            <marker date="1511422246411" expanded="true" signature="1240:1314" ph="UPDATE wx_us... " />
+            <marker date="1511422246411" expanded="true" signature="1240:1315" ph="UPDATE wx_us... " />
+            <marker date="1511422246411" expanded="true" signature="1240:1416" ph="UPDATE wx_us... " />
+            <marker date="1511422246411" expanded="true" signature="1856:1900" ph="INSERT INTO session... " />
+            <marker date="1511422246411" expanded="true" signature="1856:1901" ph="INSERT INTO session... " />
+            <marker date="1511422246411" expanded="true" signature="1856:1908" ph="INSERT INTO session... " />
+            <marker date="1511422246411" expanded="true" signature="1856:1911" ph="INSERT INTO session... " />
+            <marker date="1511422246411" expanded="true" signature="1856:1912" ph="INSERT INTO session... " />
+            <marker date="1511422246411" expanded="true" signature="1856:1913" ph="INSERT INTO session... " />
+            <marker date="1511422246411" expanded="true" signature="1856:1932" ph="INSERT INTO session... " />
+            <marker date="1511422246411" expanded="true" signature="1856:1936" ph="INSERT INTO session... " />
+            <marker date="1511422246411" expanded="true" signature="1856:1938" ph="INSERT INTO session... " />
+            <marker date="1511422246411" expanded="true" signature="1856:2037" ph="INSERT INTO session... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bindAccount.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/Config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="16" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/WxLogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="988">
+          <caret line="58" column="27" lean-forward="false" selection-start-line="58" selection-start-column="27" selection-end-line="58" selection-end-column="27" />
+          <folding>
+            <marker date="1511422246296" expanded="true" signature="3573:3609" ph="SELECT * FRO... wx_user" />
+            <marker date="1511422246296" expanded="true" signature="3573:3636" ph="SELECT * FRO... wx_user" />
+            <marker date="1511422246296" expanded="true" signature="3573:3645" ph="SELECT * FRO... wx_user" />
+            <marker date="1511422246296" expanded="true" signature="3573:3754" ph="SELECT * FRO... wx_user" />
+            <marker date="1511422246296" expanded="true" signature="4752:4775" ph="INSERT INTO wx_user... " />
+            <marker date="1511422246296" expanded="true" signature="4752:4792" ph="INSERT INTO wx_user... " />
+            <marker date="1511422246296" expanded="true" signature="4752:4802" ph="INSERT INTO wx_user... " />
+            <marker date="1511422246296" expanded="true" signature="4752:4804" ph="INSERT INTO wx_user... " />
+            <marker date="1511422246296" expanded="true" signature="4752:4823" ph="INSERT INTO wx_user... " />
+            <marker date="1511422246296" expanded="true" signature="4752:4824" ph="INSERT INTO wx_user... " />
+            <marker date="1511422246296" expanded="true" signature="4752:4836" ph="INSERT INTO wx_user... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bindAccount.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/Config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="16" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/WxLogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1450">
+          <caret line="58" column="27" lean-forward="false" selection-start-line="58" selection-start-column="27" selection-end-line="58" selection-end-column="27" />
+          <folding>
+            <marker date="1511422246296" expanded="true" signature="3573:3609" ph="SELECT * FRO... wx_user" />
+            <marker date="1511422246296" expanded="true" signature="3573:3636" ph="SELECT * FRO... wx_user" />
+            <marker date="1511422246296" expanded="true" signature="3573:3645" ph="SELECT * FRO... wx_user" />
+            <marker date="1511422246296" expanded="true" signature="3573:3754" ph="SELECT * FRO... wx_user" />
+            <marker date="1511422246296" expanded="true" signature="4752:4775" ph="INSERT INTO wx_user... " />
+            <marker date="1511422246296" expanded="true" signature="4752:4792" ph="INSERT INTO wx_user... " />
+            <marker date="1511422246296" expanded="true" signature="4752:4802" ph="INSERT INTO wx_user... " />
+            <marker date="1511422246296" expanded="true" signature="4752:4804" ph="INSERT INTO wx_user... " />
+            <marker date="1511422246296" expanded="true" signature="4752:4823" ph="INSERT INTO wx_user... " />
+            <marker date="1511422246296" expanded="true" signature="4752:4824" ph="INSERT INTO wx_user... " />
+            <marker date="1511422246296" expanded="true" signature="4752:4836" ph="INSERT INTO wx_user... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/mysql/mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-361">
+          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/bindAccount.php" />
+    <entry file="file://$PROJECT_DIR$/static/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="34" column="15" lean-forward="true" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/WxLogin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2477">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding>
+            <marker date="1511422246296" expanded="true" signature="3573:3609" ph="SELECT * FRO... wx_user" />
+            <marker date="1511422246296" expanded="true" signature="3573:3636" ph="SELECT * FRO... wx_user" />
+            <marker date="1511422246296" expanded="true" signature="3573:3645" ph="SELECT * FRO... wx_user" />
+            <marker date="1511422246296" expanded="true" signature="3573:3754" ph="SELECT * FRO... wx_user" />
+            <marker date="1511422246296" expanded="true" signature="4752:4775" ph="INSERT INTO wx_user... " />
+            <marker date="1511422246296" expanded="true" signature="4752:4792" ph="INSERT INTO wx_user... " />
+            <marker date="1511422246296" expanded="true" signature="4752:4802" ph="INSERT INTO wx_user... " />
+            <marker date="1511422246296" expanded="true" signature="4752:4804" ph="INSERT INTO wx_user... " />
+            <marker date="1511422246296" expanded="true" signature="4752:4823" ph="INSERT INTO wx_user... " />
+            <marker date="1511422246296" expanded="true" signature="4752:4824" ph="INSERT INTO wx_user... " />
+            <marker date="1511422246296" expanded="true" signature="4752:4836" ph="INSERT INTO wx_user... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="17" column="44" lean-forward="false" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+          <folding>
+            <element signature="e#7#22#0#PHP" expanded="true" />
+            <marker date="1511422246411" expanded="true" signature="283:316" ph="SELECT * FRO... user" />
+            <marker date="1511422246411" expanded="true" signature="283:319" ph="SELECT * FRO... user" />
+            <marker date="1511422246411" expanded="true" signature="283:325" ph="SELECT * FRO... user" />
+            <marker date="1511422246411" expanded="true" signature="283:338" ph="SELECT * FRO... user" />
+            <marker date="1511422246411" expanded="true" signature="283:346" ph="SELECT * FRO... user" />
+            <marker date="1511422246411" expanded="true" signature="283:355" ph="SELECT * FRO... user" />
+            <marker date="1511422246411" expanded="true" signature="283:390" ph="SELECT * FRO... user" />
+            <marker date="1511422246411" expanded="true" signature="1061:1094" ph="SELECT * FRO... wx_user" />
+            <marker date="1511422246411" expanded="true" signature="1061:1095" ph="SELECT * FRO... wx_user" />
+            <marker date="1511422246411" expanded="true" signature="1061:1108" ph="SELECT * FRO... wx_user" />
+            <marker date="1511422246411" expanded="true" signature="1061:1117" ph="SELECT * FRO... wx_user" />
+            <marker date="1511422246411" expanded="true" signature="1061:1151" ph="SELECT * FRO... wx_user" />
+            <marker date="1511422246411" expanded="true" signature="1240:1263" ph="UPDATE wx_us... " />
+            <marker date="1511422246411" expanded="true" signature="1240:1278" ph="UPDATE wx_us... " />
+            <marker date="1511422246411" expanded="true" signature="1240:1285" ph="UPDATE wx_us... " />
+            <marker date="1511422246411" expanded="true" signature="1240:1286" ph="UPDATE wx_us... " />
+            <marker date="1511422246411" expanded="true" signature="1240:1290" ph="UPDATE wx_us... " />
+            <marker date="1511422246411" expanded="true" signature="1240:1314" ph="UPDATE wx_us... " />
+            <marker date="1511422246411" expanded="true" signature="1240:1315" ph="UPDATE wx_us... " />
+            <marker date="1511422246411" expanded="true" signature="1240:1416" ph="UPDATE wx_us... " />
+            <marker date="1511422246411" expanded="true" signature="1856:1900" ph="INSERT INTO session... " />
+            <marker date="1511422246411" expanded="true" signature="1856:1901" ph="INSERT INTO session... " />
+            <marker date="1511422246411" expanded="true" signature="1856:1908" ph="INSERT INTO session... " />
+            <marker date="1511422246411" expanded="true" signature="1856:1911" ph="INSERT INTO session... " />
+            <marker date="1511422246411" expanded="true" signature="1856:1912" ph="INSERT INTO session... " />
+            <marker date="1511422246411" expanded="true" signature="1856:1913" ph="INSERT INTO session... " />
+            <marker date="1511422246411" expanded="true" signature="1856:1932" ph="INSERT INTO session... " />
+            <marker date="1511422246411" expanded="true" signature="1856:1936" ph="INSERT INTO session... " />
+            <marker date="1511422246411" expanded="true" signature="1856:1938" ph="INSERT INTO session... " />
+            <marker date="1511422246411" expanded="true" signature="1856:2037" ph="INSERT INTO session... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/Mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="39" column="28" lean-forward="true" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="577">
+          <caret line="42" column="1" lean-forward="false" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+          <folding>
+            <element signature="e#6#100#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/Config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="48" column="30" lean-forward="false" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bindAccount.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

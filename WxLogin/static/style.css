@@ -1,0 +1,65 @@
+/*=======================================【微信账号绑定 - 移动端】=================================*/
+.wx-bind-account{
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: auto;
+    line-height: normal;
+    background-color: #62c3d0;
+    padding: 16px;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+}
+.wx-bind-account form{
+    max-width: 400px;
+    width: 100%;
+    padding-bottom: 100px;
+}
+.wx-bind-account input{
+    width: 95%;
+    margin: 5px 0;
+    border-radius: 4px;
+}
+
+.wx-bind-account .user-info{
+    text-align: center;
+    margin-bottom: 16px;
+}
+.wx-bind-account .user-info img{
+    width:80px;
+    height: 80px;
+    border: 3px solid #ffffff;
+    border-radius: 50%;
+}
+.login input.col-6{
+    width: 67%;
+    display: inline-block;
+}
+.login table{
+    width: 100% !important;
+    white-space:nowrap;
+}
+.login th{
+    width: 38px;
+    /*text-align: left;*/
+}
+.login th img{
+    height: 28px;
+    margin-right: 16px;
+}
+.login td .code{
+    height: 30px;
+    width: 25%;
+    vertical-align: center;
+    margin-left: 10px;
+
+}
+.login td .btn3{
+    width: 100%;
+}
